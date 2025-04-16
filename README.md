@@ -14,6 +14,5 @@ A simple and elegant ToDo List App built using HTML, CSS, and JavaScript. The ap
 # How It Works
 * User enters a task in the input field and clicks "Add".
 * The task gets added to the DOM and saved in local storage.
-* Users can click on tasks to mark them as completed or delete them.
 * All changes are automatically reflected in local storage.
  
